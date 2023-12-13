@@ -1,0 +1,1 @@
+print("El nombre de tu cerveza es:\n"+'"'+ input("Dame el nombre de tu perro: ") +" "+ input("Dame el nombre de tu país favorito: ")+'"')
